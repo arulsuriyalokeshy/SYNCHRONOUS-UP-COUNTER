@@ -59,7 +59,7 @@ bootnode- genkey boot.Key.
 
 
 
-**PROGRAM**
+**PROGRAM**<br>
 ```
 {
 
@@ -88,7 +88,7 @@ Config"
 
 }
 
-3,
+},
 
 "difficulty": "1";
 
@@ -130,7 +130,7 @@ IN REMIX.
 * By using solidity program, New sol the new Contract is created and the ethereum is transferred.
 
 
-**OUTPUT**
+**OUTPUT**<br>
 RUNNING BLOCK CHAIN.<br>
 ![WhatsApp Image 2024-05-06 at 18 11 55_e7d50cb5](https://github.com/arulsuriyalokeshy/SYNCHRONOUS-UP-COUNTER/assets/149130151/a8a9247b-57ef-46ad-8f01-7c385d2033a0)
 <br>
