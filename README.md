@@ -1,7 +1,7 @@
 ### CREATING A PRIVATE BLOCKCHAIN.
 
 
-**AIM:**
+**AIM:**<br>
 To create a private blockchain, add nodes and create account to bransfer ethereum into it using geth.
 
 **SOFTWARE REQUIRED:**
